@@ -1,0 +1,166 @@
+09-18 12:43:19.985 25028 25051 I TestRunner: started: navigate_to_start_order_from_checkout(com.example.lunchtray.NavigationTests)
+09-18 12:43:20.024 25028 25051 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+09-18 12:43:20.051  1345  1439 D EventSequenceValidator: Transition from ACTIVITY_FINISHED to INTENT_STARTED
+09-18 12:43:20.071   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: Activity state is changed to : 0
+09-18 12:43:20.071   776  7747 I vendor.qti.hardware.servicetracker@1.2-service: Activity state is changed to : 0
+09-18 12:43:20.074  1345  4679 E ANDR-PERF-JNI: com_qualcomm_qtiperformance_native_perf_io_prefetch_start
+09-18 12:43:20.076   756   780 E ANDR-IOP: io prefetch is disabled
+09-18 12:43:20.089  1345  4679 D CompatibilityInfo: mCompatibilityFlags - 0
+09-18 12:43:20.089  1345  4679 D CompatibilityInfo: applicationDensity - 320
+09-18 12:43:20.089  1345  4679 D CompatibilityInfo: applicationScale - 1.0
+09-18 12:43:20.090   776  7747 I vendor.qti.hardware.servicetracker@1.2-service: Activity state is changed to : 2
+09-18 12:43:20.090  1345  4679 D ActivityTrigger: ActivityTrigger activityPauseTrigger
+09-18 12:43:20.090   776  7747 I vendor.qti.hardware.servicetracker@1.2-service: Activity state is changed to : 3
+09-18 12:43:20.091   776  7747 I vendor.qti.hardware.servicetracker@1.2-service: Activity state is changed to : 3
+09-18 12:43:20.101  1345  1439 D EventSequenceValidator: Transition from INTENT_STARTED to ACTIVITY_LAUNCHED
+09-18 12:43:20.102   776  7747 I vendor.qti.hardware.servicetracker@1.2-service: Activity state is changed to : 4
+09-18 12:43:20.102   776  7747 I vendor.qti.hardware.servicetracker@1.2-service: Activity state is changed to : 4
+09-18 12:43:20.103   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: Activity state is changed to : 2
+09-18 12:43:20.106  1345  4679 D CompatibilityInfo: mCompatibilityFlags - 0
+09-18 12:43:20.106  1345  4679 D CompatibilityInfo: applicationDensity - 320
+09-18 12:43:20.106  1345  4679 D CompatibilityInfo: applicationScale - 1.0
+09-18 12:43:20.107   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: Activity state is changed to : 2
+09-18 12:43:20.107   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: Activity state is changed to : 2
+09-18 12:43:20.130   826  2157 W DisplayIdentification: Invalid EDID: falling back to serial number due to missing display name.
+09-18 12:43:20.130   826  2157 W DisplayIdentification: Invalid EDID: falling back to ASCII text due to missing serial number.
+09-18 12:43:20.152 25028 25028 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@5c4a6f8 in: PRE_ON_CREATE
+09-18 12:43:20.153 25028 25028 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@5c4a6f8
+09-18 12:43:20.164  1345  1356 I system_server: Background young concurrent copying GC freed 374655(17MB) AllocSpace objects, 38(3880KB) LOS objects, 29% free, 51MB/73MB, paused 5.305ms total 88.793ms
+09-18 12:43:20.200   721   940 E qdmetadata: paramType 2048 not supported
+09-18 12:43:20.201 25028 25028 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@5c4a6f8 in: CREATED
+09-18 12:43:20.201 25028 25028 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@5c4a6f8
+09-18 12:43:20.209 15951 24535 I PBSessionCacheImpl: (REDACTED) Deleted sessionId[%d] from persistence.
+09-18 12:43:20.210 25028 25028 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@5c4a6f8 in: STARTED
+09-18 12:43:20.211 25028 25028 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@5c4a6f8
+09-18 12:43:20.215   721   940 E qdmetadata: paramType 2048 not supported
+09-18 12:43:20.215   721   940 E qdmetadata: paramType 2048 not supported
+09-18 12:43:20.220   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: Activity state is changed to : 0
+09-18 12:43:20.220   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: Activity state is changed to : 0
+09-18 12:43:20.221  2169  2169 I fpod    : updateFingerprintListeningState
+09-18 12:43:20.221  2169  2169 I fpod    : mFingerprintRunningState = 0
+09-18 12:43:20.223  2169  2169 D KeyguardFace: shouldListenForFace ( return false, Face is not default condition)
+09-18 12:43:20.223  2169  2169 D KeyguardUpdateMonitor: updateFaceListeningState shouldListenForFace==false  mFaceRunningState==0
+09-18 12:43:20.225  1345  3675 D CompatibilityInfo: mCompatibilityFlags - 0
+09-18 12:43:20.225  1345  3675 D CompatibilityInfo: applicationDensity - 320
+09-18 12:43:20.225  1345  3675 D CompatibilityInfo: applicationScale - 1.0
+09-18 12:43:20.225 15951 16006 I A       : Using proto config with mendel
+09-18 12:43:20.226   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: Activity state is changed to : 2
+09-18 12:43:20.226  1345  3675 D ActivityTrigger: ActivityTrigger activityPauseTrigger
+09-18 12:43:20.226   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: Activity state is changed to : 3
+09-18 12:43:20.227   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: Activity state is changed to : 3
+09-18 12:43:20.227 15951 16006 I A       : Using proto config with mendel
+09-18 12:43:20.228 15951 16006 W SearchServiceCore: Abort, client detached.
+09-18 12:43:20.229 15951 16006 I MicroDetectionState: (REDACTED) Should stop hotword detection immediately - %b
+09-18 12:43:20.229 15951 16006 I A       : Using proto config with mendel
+09-18 12:43:20.230 15951 16006 I A       : Using proto config with mendel
+09-18 12:43:20.231 15951 16006 I MicroDetectionState: (REDACTED) Should stop hotword detection immediately - %b
+09-18 12:43:20.231 15951 16006 I A       : Using proto config with mendel
+09-18 12:43:20.232 25028 25028 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@5c4a6f8 in: RESUMED
+09-18 12:43:20.232 15951 16006 I A       : Using proto config with mendel
+09-18 12:43:20.232   721   940 E qdmetadata: paramType 2048 not supported
+09-18 12:43:20.232   721   940 E qdmetadata: paramType 2048 not supported
+09-18 12:43:20.232 25028 25028 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@5c4a6f8
+09-18 12:43:20.239 25028 25028 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@5c4a6f8 in: PAUSED
+09-18 12:43:20.239 25028 25028 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@5c4a6f8
+09-18 12:43:20.240   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: Activity state is changed to : 4
+09-18 12:43:20.240   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: Activity state is changed to : 4
+09-18 12:43:20.241   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: Activity state is changed to : 2
+09-18 12:43:20.243  1345  2094 D CompatibilityInfo: mCompatibilityFlags - 0
+09-18 12:43:20.243  1345  2094 D CompatibilityInfo: applicationDensity - 320
+09-18 12:43:20.243  1345  2094 D CompatibilityInfo: applicationScale - 1.0
+09-18 12:43:20.244   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: Activity state is changed to : 2
+09-18 12:43:20.244   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: Activity state is changed to : 2
+09-18 12:43:20.248   721   940 E qdmetadata: paramType 2048 not supported
+09-18 12:43:20.248   721   940 E qdmetadata: paramType 2048 not supported
+09-18 12:43:20.252   776  7747 I vendor.qti.hardware.servicetracker@1.2-service: Activity state is changed to : 5
+09-18 12:43:20.252   776  7747 I vendor.qti.hardware.servicetracker@1.2-service: Activity state is changed to : 5
+09-18 12:43:20.257   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.googlequicksearchbox/com.google.android.apps.gsa.nowoverlayservice.DrawerOverlayService and for client com.android.launcher3
+09-18 12:43:20.265   721   940 E qdmetadata: paramType 2048 not supported
+09-18 12:43:20.281   721   940 I chatty  : uid=1000(system) HwBinder:721_3 identical 2 lines
+09-18 12:43:20.282   721   940 E qdmetadata: paramType 2048 not supported
+09-18 12:43:20.282   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: Activity state is changed to : 6
+09-18 12:43:20.282   721   940 E qdmetadata: paramType 2048 not supported
+09-18 12:43:20.282   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: Activity state is changed to : 6
+09-18 12:43:20.289 25028 25028 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@d3111a in: PRE_ON_CREATE
+09-18 12:43:20.290 25028 25028 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+09-18 12:43:20.298   721   940 E qdmetadata: paramType 2048 not supported
+09-18 12:43:20.298   721   940 E qdmetadata: paramType 2048 not supported
+09-18 12:43:20.311  3480  3480 I CNSS    : Failed to send nl message
+09-18 12:43:20.314   721   940 E qdmetadata: paramType 2048 not supported
+09-18 12:43:20.314   721   940 E qdmetadata: paramType 2048 not supported
+09-18 12:43:20.326  3480  3480 I CNSS    : Failed to send nl message
+09-18 12:43:20.331   721   940 E qdmetadata: paramType 2048 not supported
+09-18 12:43:20.331   721   940 E qdmetadata: paramType 2048 not supported
+09-18 12:43:20.338 25028 25028 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@d3111a in: CREATED
+09-18 12:43:20.339 25028 25028 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@d3111a
+09-18 12:43:20.342 25028 25028 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@d3111a in: STARTED
+09-18 12:43:20.343 25028 25028 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@d3111a
+09-18 12:43:20.344 25028 25028 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@d3111a in: RESUMED
+09-18 12:43:20.344 25028 25028 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@d3111a
+09-18 12:43:20.347  2169  2169 I fpod    : updateFingerprintListeningState
+09-18 12:43:20.347  2169  2169 I fpod    : mFingerprintRunningState = 0
+09-18 12:43:20.348   721   940 E qdmetadata: paramType 2048 not supported
+09-18 12:43:20.348   721   940 E qdmetadata: paramType 2048 not supported
+09-18 12:43:20.348  2169  2169 D KeyguardFace: shouldListenForFace ( return false, Face is not default condition)
+09-18 12:43:20.348  2169  2169 D KeyguardUpdateMonitor: updateFaceListeningState shouldListenForFace==false  mFaceRunningState==0
+09-18 12:43:20.375 25028 25059 I AdrenoGLES-0: QUALCOMM build                   : d4cfdf3, Ic907de5ed0
+09-18 12:43:20.375 25028 25059 I AdrenoGLES-0: Build Date                       : 09/25/20
+09-18 12:43:20.375 25028 25059 I AdrenoGLES-0: OpenGL ES Shader Compiler Version: EV031.32.02.01
+09-18 12:43:20.375 25028 25059 I AdrenoGLES-0: Local Branch                     : mybrancheaff3d46-e51f-f136-8926-1458d0b52af0
+09-18 12:43:20.375 25028 25059 I AdrenoGLES-0: Remote Branch                    : quic/gfx-adreno.lnx.1.0.r116-rel
+09-18 12:43:20.375 25028 25059 I AdrenoGLES-0: Remote Branch                    : NONE
+09-18 12:43:20.375 25028 25059 I AdrenoGLES-0: Reconstruct Branch               : NOTHING
+09-18 12:43:20.375 25028 25059 I AdrenoGLES-0: Build Config                     : S P 10.0.7 AArch64
+09-18 12:43:20.375 25028 25059 I AdrenoGLES-0: Driver Path                      : /vendor/lib64/egl/libGLESv2_adreno.so
+09-18 12:43:20.404 25028 25059 I AdrenoGLES-0: PFP: 0x016ee190, ME: 0x00000000
+09-18 12:43:20.450   721   940 E qdmetadata: paramType 2048 not supported
+09-18 12:43:20.484  1345  1482 D ArtManagerInternalImpl: /data/misc/iorapd/com.example.lunchtray/1/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity/compiled_traces/compiled_trace.pb doesn't exist
+09-18 12:43:20.486  1345  1482 I ActivityTaskManager: Displayed com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity: +432ms
+09-18 12:43:20.492  1345  1439 D EventSequenceValidator: Transition from ACTIVITY_LAUNCHED to ACTIVITY_FINISHED
+09-18 12:43:20.532   721   940 E qdmetadata: paramType 2048 not supported
+09-18 12:43:20.652   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: Activity state is changed to : 5
+09-18 12:43:20.652   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: Activity state is changed to : 5
+09-18 12:43:20.677  5735  5735 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3220
+09-18 12:43:20.678  5735  5735 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2116 checkRepeatedly = false, unlocked = true
+09-18 12:43:20.679  5735  5735 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1923 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.lunchtray fieldId=-1 fieldName=null extras=null}, false)
+09-18 12:43:20.679  5735  5735 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2116 checkRepeatedly = true, unlocked = true
+09-18 12:43:20.715 25028 25028 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@5c4a6f8 in: STOPPED
+09-18 12:43:20.715 25028 25028 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@5c4a6f8
+09-18 12:43:20.721   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: Activity state is changed to : 6
+09-18 12:43:20.721   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: Activity state is changed to : 6
+09-18 12:43:20.730   721   940 E qdmetadata: paramType 2048 not supported
+09-18 12:43:20.742  3480  3480 I CNSS    : Failed to send nl message
+09-18 12:43:20.747   721   940 E qdmetadata: paramType 2048 not supported
+09-18 12:43:20.816   721   940 E qdmetadata: paramType 2048 not supported
+09-18 12:43:20.822  4590  4613 I FontLog : Received query Noto Color Emoji Compat, URI content://com.google.android.gms.fonts [CONTEXT service_id=132 ]
+09-18 12:43:20.822  4590  4613 I FontLog : Query [emojicompat-emoji-font] resolved to {Noto Color Emoji Compat, wdth 100.0, wght 400, ital 0.0, bestEffort false} [CONTEXT service_id=132 ]
+09-18 12:43:20.829 25028 25051 D EventInjectionStrategy: Creating injection strategy with input manager.
+09-18 12:43:20.829  4590  4613 I FontLog : Fetch {Noto Color Emoji Compat, wdth 100.0, wght 400, ital 0.0, bestEffort false} end status Status{statusCode=SUCCESS, resolution=null} [CONTEXT service_id=132 ]
+09-18 12:43:20.829 25028 25051 W ample.lunchtra: Accessing hidden method Landroid/hardware/input/InputManager;->getInstance()Landroid/hardware/input/InputManager; (greylist, reflection, allowed)
+09-18 12:43:20.831 25028 25051 W ample.lunchtra: Accessing hidden method Landroid/hardware/input/InputManager;->injectInputEvent(Landroid/view/InputEvent;I)Z (greylist, reflection, allowed)
+09-18 12:43:20.831 25028 25051 W ample.lunchtra: Accessing hidden field Landroid/hardware/input/InputManager;->INJECT_INPUT_EVENT_MODE_WAIT_FOR_FINISH:I (greylist, reflection, allowed)
+09-18 12:43:20.837  4590  4613 I FontLog : Pulling font file for id = 288, cache size = 5 [CONTEXT service_id=132 ]
+09-18 12:43:20.847 25028 25051 W ample.lunchtra: Accessing hidden method Landroid/view/ViewConfiguration;->getDoubleTapMinTime()I (greylist, reflection, allowed)
+09-18 12:43:20.849  4590  4613 I FontLog : Pulling font file for id = 288, cache size = 5 [CONTEXT service_id=132 ]
+09-18 12:43:20.853 25028 25028 W ample.lunchtra: Accessing hidden method Landroid/os/MessageQueue;->next()Landroid/os/Message; (greylist, reflection, allowed)
+09-18 12:43:20.854 25028 25028 W ample.lunchtra: Accessing hidden field Landroid/os/MessageQueue;->mMessages:Landroid/os/Message; (greylist, reflection, allowed)
+09-18 12:43:20.854 25028 25028 W ample.lunchtra: Accessing hidden method Landroid/os/Message;->recycleUnchecked()V (greylist, reflection, allowed)
+09-18 12:43:20.857 25028 25028 W ample.lunchtra: Accessing hidden method Landroid/view/WindowManagerGlobal;->getInstance()Landroid/view/WindowManagerGlobal; (greylist, reflection, allowed)
+09-18 12:43:20.857 25028 25028 W ample.lunchtra: Accessing hidden field Landroid/view/WindowManagerGlobal;->mViews:Ljava/util/ArrayList; (greylist, reflection, allowed)
+09-18 12:43:20.857 25028 25028 W ample.lunchtra: Accessing hidden field Landroid/view/WindowManagerGlobal;->mParams:Ljava/util/ArrayList; (greylist, reflection, allowed)
+09-18 12:43:20.863 25028 25028 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230842/com.example.lunchtray:id/cancel_button>
+09-18 12:43:20.873   763   802 W ANDR-PERF-LM: FeatureState: readState() 149: warning: appName is NULL, returning default State
+09-18 12:43:20.873   763   802 W ANDR-PERF-LM: FeatureState: readState() 149: warning: appName is NULL, returning default State
+09-18 12:43:20.979   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.gms/.auth.GetToken and for client com.android.chrome
+09-18 12:43:20.979   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: size of service connections for service: com.google.android.gms/.auth.GetTokenafter removal is 0
+09-18 12:43:20.979   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: size of client connections for client: com.android.chromeafter removal is 25
+09-18 12:43:20.980   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: destroyService is called for service : com.google.android.gms/.auth.GetToken
+09-18 12:43:21.014   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: getClientConnections called for client: com.example.lunchtray
+09-18 12:43:21.014   763  3079 E ANDR-PERF-LM: DependentServices: getServices() 97: Service Tracker HAL could not find Client Connections
+09-18 12:43:21.076 21584 24824 W DynamiteModule: Local module descriptor class for com.google.android.gms.providerinstaller.dynamite not found.
+09-18 12:43:21.079  4590  4613 W ProviderHelper: Unknown dynamite feature providerinstaller.dynamite
+09-18 12:43:21.081 21584 24824 W ProviderInstaller: Failed to load providerinstaller module: No acceptable module com.google.android.gms.providerinstaller.dynamite found. Local version is 0 and remote version is 0.
+09-18 12:43:21.084 21584 24824 W Conscrypt: Could not set socket write timeout: java.net.SocketException: Socket closed
+09-18 12:43:21.084 21584 24824 W Conscrypt: 	at com.google.android.gms.org.conscrypt.Platform.setSocketWriteTimeout(:com.google.android.gms@223017038@22.30.17 (150406-470714279):2)
+09-18 12:43:21.084 21584 24824 W Conscrypt: 	at com.google.android.gms.org.conscrypt.ConscryptFileDescriptorSocket.setSoWriteTimeout(:com.google.android.gms@223017038@22.30.17 (150406-470714279):0)
+09-18 12:43:21.140 25028 25051 I TestRunner: finished: navigate_to_start_order_from_checkout(com.example.lunchtray.NavigationTests)

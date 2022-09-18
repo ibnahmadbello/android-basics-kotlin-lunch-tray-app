@@ -1,0 +1,143 @@
+09-18 12:43:26.626 25028 25051 I TestRunner: started: navigate_to_start_order_from_accompaniment_menu(com.example.lunchtray.NavigationTests)
+09-18 12:43:26.634 25028 25051 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+09-18 12:43:26.641  1345  1439 D EventSequenceValidator: Transition from ACTIVITY_FINISHED to INTENT_STARTED
+09-18 12:43:26.642   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: Activity state is changed to : 0
+09-18 12:43:26.642   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: Activity state is changed to : 0
+09-18 12:43:26.644  1345  2094 E ANDR-PERF-JNI: com_qualcomm_qtiperformance_native_perf_io_prefetch_start
+09-18 12:43:26.650  1345  2094 D CompatibilityInfo: mCompatibilityFlags - 0
+09-18 12:43:26.650  1345  2094 D CompatibilityInfo: applicationDensity - 320
+09-18 12:43:26.650  1345  2094 D CompatibilityInfo: applicationScale - 1.0
+09-18 12:43:26.651   756   780 E ANDR-IOP: io prefetch is disabled
+09-18 12:43:26.651   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: Activity state is changed to : 2
+09-18 12:43:26.652  1345  2094 D ActivityTrigger: ActivityTrigger activityPauseTrigger
+09-18 12:43:26.652   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: Activity state is changed to : 3
+09-18 12:43:26.652   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: Activity state is changed to : 3
+09-18 12:43:26.657   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: Activity state is changed to : 4
+09-18 12:43:26.657   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: Activity state is changed to : 4
+09-18 12:43:26.658   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: Activity state is changed to : 2
+09-18 12:43:26.661  1345  2771 D CompatibilityInfo: mCompatibilityFlags - 0
+09-18 12:43:26.661  1345  2771 D CompatibilityInfo: applicationDensity - 320
+09-18 12:43:26.661  1345  2771 D CompatibilityInfo: applicationScale - 1.0
+09-18 12:43:26.662   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: Activity state is changed to : 2
+09-18 12:43:26.662   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: Activity state is changed to : 2
+09-18 12:43:26.672  1345  1439 D EventSequenceValidator: Transition from INTENT_STARTED to ACTIVITY_LAUNCHED
+09-18 12:43:26.675 25028 25028 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@2580e26 in: PRE_ON_CREATE
+09-18 12:43:26.676 25028 25028 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@2580e26
+09-18 12:43:26.677 25028 25028 I chatty  : uid=10249(com.example.lunchtray) identical 4 lines
+09-18 12:43:26.677 25028 25028 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@2580e26
+09-18 12:43:26.691 25028 25028 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@2580e26 in: CREATED
+09-18 12:43:26.691 25028 25028 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@2580e26
+09-18 12:43:26.692 25028 25028 I chatty  : uid=10249(com.example.lunchtray) identical 4 lines
+09-18 12:43:26.692 25028 25028 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@2580e26
+09-18 12:43:26.694 25028 25028 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@2580e26 in: STARTED
+09-18 12:43:26.695 25028 25028 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@2580e26
+09-18 12:43:26.695 25028 25028 I chatty  : uid=10249(com.example.lunchtray) identical 4 lines
+09-18 12:43:26.695 25028 25028 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@2580e26
+09-18 12:43:26.699   721   940 E qdmetadata: paramType 2048 not supported
+09-18 12:43:26.706   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: Activity state is changed to : 0
+09-18 12:43:26.706   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: Activity state is changed to : 0
+09-18 12:43:26.709  1345  2771 D CompatibilityInfo: mCompatibilityFlags - 0
+09-18 12:43:26.709  1345  2771 D CompatibilityInfo: applicationDensity - 320
+09-18 12:43:26.709  1345  2771 D CompatibilityInfo: applicationScale - 1.0
+09-18 12:43:26.709   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: Activity state is changed to : 2
+09-18 12:43:26.710  1345  2771 D ActivityTrigger: ActivityTrigger activityPauseTrigger
+09-18 12:43:26.710   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: Activity state is changed to : 3
+09-18 12:43:26.710   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: Activity state is changed to : 3
+09-18 12:43:26.713 25028 25028 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@2580e26 in: RESUMED
+09-18 12:43:26.714 25028 25028 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@2580e26
+09-18 12:43:26.714 25028 25028 I chatty  : uid=10249(com.example.lunchtray) identical 4 lines
+09-18 12:43:26.714 25028 25028 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@2580e26
+09-18 12:43:26.715   721   940 E qdmetadata: paramType 2048 not supported
+09-18 12:43:26.715   721   940 E qdmetadata: paramType 2048 not supported
+09-18 12:43:26.718 25028 25028 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@2580e26 in: PAUSED
+09-18 12:43:26.718 25028 25028 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@2580e26
+09-18 12:43:26.719 25028 25028 I chatty  : uid=10249(com.example.lunchtray) identical 4 lines
+09-18 12:43:26.719 25028 25028 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@2580e26
+09-18 12:43:26.720   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: Activity state is changed to : 4
+09-18 12:43:26.720   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: Activity state is changed to : 4
+09-18 12:43:26.720   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: Activity state is changed to : 2
+09-18 12:43:26.722  1345  3675 D CompatibilityInfo: mCompatibilityFlags - 0
+09-18 12:43:26.722  1345  3675 D CompatibilityInfo: applicationDensity - 320
+09-18 12:43:26.722  1345  3675 D CompatibilityInfo: applicationScale - 1.0
+09-18 12:43:26.723   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: Activity state is changed to : 2
+09-18 12:43:26.723   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: Activity state is changed to : 2
+09-18 12:43:26.729   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: Activity state is changed to : 5
+09-18 12:43:26.729   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: Activity state is changed to : 5
+09-18 12:43:26.732   721   940 E qdmetadata: paramType 2048 not supported
+09-18 12:43:26.732   721   940 E qdmetadata: paramType 2048 not supported
+09-18 12:43:26.736 25028 25028 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@1c39f5f in: PRE_ON_CREATE
+09-18 12:43:26.737 25028 25028 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+09-18 12:43:26.737 25028 25028 I chatty  : uid=10249(com.example.lunchtray) identical 3 lines
+09-18 12:43:26.737 25028 25028 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+09-18 12:43:26.737 25028 25028 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+09-18 12:43:26.742   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.googlequicksearchbox/com.google.android.apps.gsa.nowoverlayservice.DrawerOverlayService and for client com.android.launcher3
+09-18 12:43:26.749   721   940 E qdmetadata: paramType 2048 not supported
+09-18 12:43:26.749   721   940 E qdmetadata: paramType 2048 not supported
+09-18 12:43:26.751 25028 25028 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@1c39f5f in: CREATED
+09-18 12:43:26.751 25028 25028 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@1c39f5f
+09-18 12:43:26.752 25028 25028 I chatty  : uid=10249(com.example.lunchtray) identical 4 lines
+09-18 12:43:26.752 25028 25028 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@1c39f5f
+09-18 12:43:26.754 15951 24535 I PBSessionCacheImpl: (REDACTED) Deleted sessionId[%d] from persistence.
+09-18 12:43:26.755 25028 25028 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@1c39f5f in: STARTED
+09-18 12:43:26.755 25028 25028 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@1c39f5f
+09-18 12:43:26.756 25028 25028 I chatty  : uid=10249(com.example.lunchtray) identical 4 lines
+09-18 12:43:26.756 25028 25028 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@1c39f5f
+09-18 12:43:26.758 25028 25028 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@1c39f5f in: RESUMED
+09-18 12:43:26.758 25028 25028 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@1c39f5f
+09-18 12:43:26.759 25028 25028 I chatty  : uid=10249(com.example.lunchtray) identical 4 lines
+09-18 12:43:26.759 25028 25028 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@1c39f5f
+09-18 12:43:26.759 15951 16006 I A       : Using proto config with mendel
+09-18 12:43:26.760 15951 16006 I A       : Using proto config with mendel
+09-18 12:43:26.760 15951 16006 W SearchServiceCore: Abort, client detached.
+09-18 12:43:26.761  3480  3480 I CNSS    : Failed to send nl message
+09-18 12:43:26.761 15951 16006 I MicroDetectionState: (REDACTED) Should stop hotword detection immediately - %b
+09-18 12:43:26.762 15951 16006 I A       : Using proto config with mendel
+09-18 12:43:26.763 15951 16006 I A       : Using proto config with mendel
+09-18 12:43:26.765   721   940 E qdmetadata: paramType 2048 not supported
+09-18 12:43:26.765   721   940 I chatty  : uid=1000(system) HwBinder:721_3 identical 1 line
+09-18 12:43:26.765   721   940 E qdmetadata: paramType 2048 not supported
+09-18 12:43:26.767   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: Activity state is changed to : 6
+09-18 12:43:26.767   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: Activity state is changed to : 6
+09-18 12:43:26.783   721   940 E qdmetadata: paramType 2048 not supported
+09-18 12:43:26.783   721   940 E qdmetadata: paramType 2048 not supported
+09-18 12:43:26.784  3480  3480 I CNSS    : Failed to send nl message
+09-18 12:43:26.796  1345  1482 D ArtManagerInternalImpl: /data/misc/iorapd/com.example.lunchtray/1/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity/compiled_traces/compiled_trace.pb doesn't exist
+09-18 12:43:26.799   721   940 E qdmetadata: paramType 2048 not supported
+09-18 12:43:26.799   721   940 E qdmetadata: paramType 2048 not supported
+09-18 12:43:26.800  1345  1482 I ActivityTaskManager: Displayed com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity: +154ms
+09-18 12:43:26.807  1345  1439 D EventSequenceValidator: Transition from ACTIVITY_LAUNCHED to ACTIVITY_FINISHED
+09-18 12:43:26.815   721   940 E qdmetadata: paramType 2048 not supported
+09-18 12:43:26.815   721   940 E qdmetadata: paramType 2048 not supported
+09-18 12:43:26.826  2169  2169 I fpod    : updateFingerprintListeningState
+09-18 12:43:26.826  2169  2169 I fpod    : mFingerprintRunningState = 0
+09-18 12:43:26.826  2169  2169 D KeyguardFace: shouldListenForFace ( return false, Face is not default condition)
+09-18 12:43:26.826  2169  2169 D KeyguardUpdateMonitor: updateFaceListeningState shouldListenForFace==false  mFaceRunningState==0
+09-18 12:43:26.832   721   940 E qdmetadata: paramType 2048 not supported
+09-18 12:43:26.848   721   940 I chatty  : uid=1000(system) HwBinder:721_3 identical 3 lines
+09-18 12:43:26.848   721   940 E qdmetadata: paramType 2048 not supported
+09-18 12:43:26.862 21584 21603 W System  : A resource failed to call close.
+09-18 12:43:26.865 21584 21603 I chatty  : uid=10125(com.google.android.gm) FinalizerDaemon identical 4 lines
+09-18 12:43:26.865 21584 21603 W System  : A resource failed to call close.
+09-18 12:43:26.890  5735  5735 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3220
+09-18 12:43:26.891  5735  5735 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2116 checkRepeatedly = false, unlocked = true
+09-18 12:43:26.891  5735  5735 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1923 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.lunchtray fieldId=-1 fieldName=null extras=null}, false)
+09-18 12:43:26.892  5735  5735 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2116 checkRepeatedly = true, unlocked = true
+09-18 12:43:26.898   721   940 E qdmetadata: paramType 2048 not supported
+09-18 12:43:26.908 25028 25028 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230842/com.example.lunchtray:id/cancel_button>
+09-18 12:43:26.910   763   802 W ANDR-PERF-LM: FeatureState: readState() 149: warning: appName is NULL, returning default State
+09-18 12:43:26.911   763   802 W ANDR-PERF-LM: FeatureState: readState() 149: warning: appName is NULL, returning default State
+09-18 12:43:26.914   721   940 E qdmetadata: paramType 2048 not supported
+09-18 12:43:26.960   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: getClientConnections called for client: com.example.lunchtray
+09-18 12:43:26.960   763  3079 E ANDR-PERF-LM: DependentServices: getServices() 97: Service Tracker HAL could not find Client Connections
+09-18 12:43:27.098   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.gms/.chimera.GmsBoundBrokerService and for client com.android.chrome
+09-18 12:43:27.098   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: size of service connections for service: com.google.android.gms/.chimera.GmsBoundBrokerServiceafter removal is 2
+09-18 12:43:27.098   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: size of client connections for client: com.android.chromeafter removal is 24
+09-18 12:43:27.131   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: Activity state is changed to : 5
+09-18 12:43:27.131   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: Activity state is changed to : 5
+09-18 12:43:27.133 25028 25028 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@2580e26 in: STOPPED
+09-18 12:43:27.133 25028 25028 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@2580e26
+09-18 12:43:27.134 25028 25028 I chatty  : uid=10249(com.example.lunchtray) identical 4 lines
+09-18 12:43:27.134 25028 25028 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@2580e26
+09-18 12:43:27.136   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: Activity state is changed to : 6
+09-18 12:43:27.137   776  4024 I vendor.qti.hardware.servicetracker@1.2-service: Activity state is changed to : 6
+09-18 12:43:27.175 25028 25051 I TestRunner: finished: navigate_to_start_order_from_accompaniment_menu(com.example.lunchtray.NavigationTests)
